@@ -16,8 +16,6 @@ Este repositório reúne conhecimentos adquiridos por mim durante meu curso de t
 
 - executar + msconfig (acessar programas que são abertos quando o SO é inicializado)
 - aula de hoje: VSC, GitHub e Markdown
-  [clique aqui para acessar link externo] https://www.markdownguide.org/getting-started/
-
-  https://www.markdownguide.org/getting-started/
+ 
   
 
